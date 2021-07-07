@@ -1,0 +1,1 @@
+{"reviews":[{"stars":5,"username":null,"content":"Confirmed working on iOS 12.4, a12 device","version":"1.0.1","ios":"12.4","date":"2020-01-28T20:53:29.000Z"},{"stars":1,"username":null,"content":"Not working on A12","version":"1.0.1","ios":"12.1.1","date":"2019-05-12T15:25:16.000Z"}],"stars":{"1":2,"2":0,"3":0,"4":0,"5":1},"averageStars":2.33}

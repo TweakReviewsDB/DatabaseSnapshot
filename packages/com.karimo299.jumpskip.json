@@ -1,0 +1,1 @@
+{"reviews":[{"stars":3,"username":"Quontias","content":"Skipping works but causes volume to change as second button for each skip gesture isn’t registered by the device. Skip forwards does skip but volume decrease as vol up isn’t registered.","version":"1.1.0","ios":"13.3","date":"2020-02-15T15:14:00.000Z"}],"stars":{"1":0,"2":0,"3":1,"4":0,"5":4},"averageStars":4.6}
