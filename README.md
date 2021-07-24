@@ -1,6 +1,6 @@
 # TweakReviewsDB Database Snapshot
 
-This is a dump of TweakReviewsDB created on July 7, 2021. The database had stopped accepted new reviews on March 10, 2021 so the database hasn't changed since March.
+This is a dump of TweakReviewsDB created on July 7, 2021. The database had stopped accepting new reviews on March 10, 2021 and hadn't started accepting new reviews yet when this dump was created.
 
 ## Usage
 
